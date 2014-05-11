@@ -17,7 +17,7 @@ Mark for  done Item
 ###Usage
 Download this reposity and run `composer install` via cmd from window, terminal for linux. 
 
-When it's was finish.Open "app/config/database.php" and edit to compatable with your database. For default database configuration as I had done is like the following.
+When it's was finish.Open "app/config/database.php" and edit to compatible with your database. For default database configuration as I had done is like the following.
 
 ```sh
 'mysql' => array(
@@ -31,8 +31,7 @@ When it's was finish.Open "app/config/database.php" and edit to compatable with 
 			'prefix'    => '',
 		),
 ```
-My database name is `laravel-todo` | My database username is `root` |
-My database password is empty.
+My database name is `laravel-todo` | My database username is `root` | My database password is `empty`.
 
 When you had finished your database configuration so now run from your cmd/terminal
 
